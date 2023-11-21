@@ -1,6 +1,5 @@
 # Teacher Pro 🌟
-![IELTSExam.ai]('ieltsexam.png')
-
+![IELTSExam](ieltsexam.png)
 
 ## About Us 📚
 
